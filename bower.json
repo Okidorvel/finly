@@ -1,0 +1,27 @@
+{
+  "name": "finly",
+  "description": "HTML Template",
+  "main": "index.html",
+  "authors": [
+    "OKI"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS"
+  ],
+  "homepage": "https://github.com/Okidorvel/finly",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "Jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
